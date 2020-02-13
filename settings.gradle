@@ -1,0 +1,4 @@
+rootProject.name = 'CodeDojo'
+
+
+enableFeaturePreview('GRADLE_METADATA')
